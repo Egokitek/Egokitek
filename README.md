@@ -5,7 +5,7 @@
 
  **Soy un ingeniero que ha sabido adaptarse a diferentes olas tecnológicas a lo largo de 30 años de carrera profesional. Tanto en el sector público como privado, tanto por cuenta ajena como de autónomo y emprendedor.**
  
- **He trabajado en enseñanza, industria de automoción, telefonía móvil, impresión 3D, desarrollo de proyectos opensource y actualmente estoy en la empresa Camp Tecnológico donde desarrolllo proyectos de Machine Learning y Edge Computing.**
+ **He trabajado en enseñanza, industria de automoción, telefonía móvil, impresión 3D, desarrollo de proyectos opensource y actualmente estoy en la empresa I+Med donde investigo en sistemas embebidos y Bioelectrónica.**
 
 **Mi hobby es la Permacultura. Soy también un maker entusiasta y construyo cosas como impresoras 3D o ARSandbox.**
 
